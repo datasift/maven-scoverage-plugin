@@ -10,7 +10,7 @@
 
     <groupId>org.scoverage</groupId>
     <artifactId>maven-scoverage-plugin</artifactId>
-    <version>0.99.2-ds-1</version>
+    <version>0.99.2-ds-2-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Maven plugin for scoverage</name>
