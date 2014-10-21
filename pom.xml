@@ -31,9 +31,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:scoverage/maven-scoverage-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:scoverage/maven-scoverage-plugin.git</developerConnection>
-        <url>git@github.com:scoverage/maven-scoverage-plugin.git</url>
+        <connection>scm:git:https://github.com/datasift/maven-scoverage-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:datasift/maven-scoverage-plugin.git</developerConnection>
+        <url>https://github.com/datasift/maven-scoverage-plugin.git</url>
     </scm>
 
     <developers>
